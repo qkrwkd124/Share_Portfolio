@@ -1,0 +1,21 @@
+{
+  "name": "ssafy",
+  "short_name": "ssafy",
+  "icons": [
+    {
+      "src": "./img/icons/favicon-96x96",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/favicon-96x96",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87",
+  "gcm_sender_id": "103953800507"
+}

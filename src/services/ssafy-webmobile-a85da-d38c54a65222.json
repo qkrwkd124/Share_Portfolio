@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ssafy-webmobile-a85da",
+  "private_key_id": "d38c54a6522236d58e86523933302b4dcb7cfe61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7qvMXuaY8jdso\nYEJ2Gqgd5X9g7HF3XaIChl0XOcIffe9+1tP8Fbudyc96TrVNbqFfUQZRvPLNYj32\nNKV0HulIa+4qugOHp7BUy5u6zvm2NmUdXIlCFsCAbGqjR4bsJATD8V6WyDIa8DrO\ngblUiFY2/2CpCWPzA2CRWMK5rwNdR6w57LoUWoY78SD3ukR7wR0TkN3Ie5FUXPGE\nm8UhszATyjtlJ4f6IoYhRt5ErfUlIMETRs2dtqid/hI2A9Sw3mBd/jNcHAFxZd5H\nucrkao6kHBrzTbwxRGTsIl10y6a//hnz8WjVvILh2VRVgKv53z6TVRvzrV+5aoQq\nDFn2oeCdAgMBAAECggEABGVBolmf0iVEb9KpW9jN/T1F2YBQPAp+Y+6/uW6J5HDv\nrhncBzh/F3gFmwjC6FhiATiFnF5/lV3qs5ySD4E115NnlaqbsI6165aFRD/ay3DE\nt4ZWVKzxv1BKwx5Gw7soPWqm24M+4TClP/b730X+NvWOTwdARw3aMi1RCkZWHtYn\niqV+GhNJI3af+vv76fxvz1sPFmXQjjsGa7VlKOtNX7Dq6yXw/v8U+gOc7lLXnVHE\nOT8HApwtb8HSEDxAEF7W4j8xqZC55RNoG0k/zWbkKUSvVNhjL2oXmOgODNYsJ/fI\n2UW0ZqIkVM4gaZrnh4L8m6cXwCWAkkrQu28SD+wnRQKBgQD91Mz8yV0CVbr4j2da\n0R44nbC/MAkiVeHEkx9is5+HCPTriEj9KxXMdYPVRdV+/mFUfF33yqwSp14g1WXT\nUCmAMG7MO9IiQa8az5yobhUEnmOC2fznQ33zvgUMirb6ragfe9Bydek8xhnRSgjV\nziwS8N48g2x8cmu8oqhmCWPSHwKBgQC9RW5VIWYMMkzumgdhaok+OFt1k3XG4IgT\nTej6JJ5eU/+87DxpoYHOVcY2iSPasJt6GJ5pJbsGtt+uUw5cqsVYEzJbffOSgLdm\ndbg4iOW0sLD9PjhPiqoWnxRRRBotTIzgxsEfAtdISQjbUEseUKNOjQAPw26hmibN\nKFyIMOrNwwKBgFNhS9Td8IeL0ddEhBb5CoxegGjNRrLYs0j3ax/pEUYyUwHrys4f\nERIQqDWusur8dMxj7hovoUafY/Q1JTW852UMg9ji7awDF5ofCL7rKkxSGy4onUL6\nkK04hkAQcPr3gHqXGWoAAZXNHT36q9xP1XqDVP1bzo8ypuFYLSkXfIrRAoGBAJq6\nT+A4VXxTAqFsOexhc6Dx4ZLU4cubcqKVZohXtz/V25NObHTOG5fadxfONQlqpy/B\nQH8k4Sg0B9gy/eKzmHDQALLa3Gw/3a5dPiS5hU+ZwpbEbrRX34Rut+VXjy7JDcIT\nuXzojaYCTsM7eK1nrplgm1RHqAFkS6QcAskzdECRAoGBAKj9jOjS12aVPuUM62YW\nAAPDJD4G3zztJtFjJpH7HOq31rjl/Rlr7FixsunTt1X5OqOf/f2NHbvrI8X9o+9m\nP5f8IZUQckiJpWDgfIoRcGj2qRVuDhho9rg+w1BmXQlUJvJHovhBLfEdvbciJayl\nxXk8Qb/d9MWwOlpHlOC6uFOA\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-j70kc@ssafy-webmobile-a85da.iam.gserviceaccount.com",
+  "client_id": "103725384383567682335",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-j70kc%40ssafy-webmobile-a85da.iam.gserviceaccount.com"
+}
